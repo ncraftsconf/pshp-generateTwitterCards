@@ -1,0 +1,36 @@
+{
+    "sessions": [{
+            "speakerId": "Indu_alagarsamy",
+            "speakerName": "Indu Alagarsamy",
+            "speakerPhoto": "InduAlagarsamy",
+            "id": "nc19-ial01",
+            "title": "Evolving with the changing requirements - Using DDD and Saga Message Pattern",
+            "format": "Talk",
+            "room": "Hopper",
+            "date": "May 17th",
+            "time": "03:00 PM"
+        },
+        {
+            "speakerId": "michelle_avomo",
+            "speakerName": "Michelle Avomo",
+            "speakerPhoto": "MichelleAvomo",
+            "id": "nc19-mav01",
+            "title": "(Quick) kata to explain D from SOLID principles",
+            "format": "Lightning Talk",
+            "room": "Kare",
+            "date": "May 17th",
+            "time": "02:00 PM"
+        },
+        {
+            "speakerId": "kenny_baas",
+            "speakerName": "Kenny Baas-Schwegler",
+            "speakerPhoto": "KennyBaas-Schwegler",
+            "id": "nc19-kba01",
+            "title": "I got Trapped! Systems thinking traps of IT Teams and how to battle them",
+            "format": "Talk",
+            "room": "Hopper",
+            "date": "May 17th",
+            "time": "04:00 PM"
+        }
+    ]
+}
