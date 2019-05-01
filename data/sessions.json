@@ -29,7 +29,7 @@
             "description": "Understanding or explaining Dependency Inversion can be confusing. <br/>\n\nThe official definition of that principle gives no clue on how it works in real life. Thus, as dev we know it exists and yet, we hardly remember why it has been around for so long. <br/>\n\nThis session is about a kata that will help any developper seeing/showing Dependency Inversion Principle ( D from SOLID) in action.  <br/>\n\nThis session is a  straigthforward *tip and trick* to explain The D from SOLID.",
             "room": "Kare",
             "date": "May 17th",
-            "time": "02:00 PM",
+            "time": "02:25 PM",
             "tags": [],
             "cospeakers": []
         },
@@ -91,7 +91,7 @@
             "description": "Imagine a world where we are able to predict people’s behaviour with precision. A world, for example, where we can tell whether someone is going to a commit crime before they do. A lot of our problems would just disappear. The quest for absolute certainty has been at the top of Western science’s agenda. In a similar fashion, current technological developments tend to strive for generalizability and predictability. We value certainty, stability and uniformity. Whereas most of reality, instead of being orderly and stable is seething with change, disorder and process. People, far from being predictable and predetermined, are complex, social and dynamical beings that inherently exist in a web of relations. This talk discusses how absolute certainty is not only an unattainable goal so far as understanding people and the social world is concerned but also a dangerous state to aspire to.",
             "room": "Lovelace",
             "date": "May 17th",
-            "time": "11:00 AM",
+            "time": "11:30 AM",
             "tags": [],
             "cospeakers": []
         },
@@ -119,7 +119,7 @@
             "title": "The gordian knot → Hatching Software Development Ecosystems",
             "format": "Talk",
             "description": "Some companies are going \"full DevOps\" and apparently releasing at the speed of light. Other companies are still struggling with estimations and slowly thinking about going microservices. Other are happy with their monolith, but struggling with recruiting.\n\nWe’re all developers, but we’re not doing the same job. The line connecting a problem to its solution is relatively straight in some organizations and incredibly convoluted in some hours.\n\nProcesses, Software architectures and Organization are not separate concerns, neither are orthogonal. Pretending to fix one thing without touching others is a losing battle.\n\nWe’re part of the problem. Our software is part of the problem. We can be part of the solution too.",
-            "room": "Lovelace",
+            "room": "Keynote",
             "date": "May 16th",
             "time": "05:15 PM",
             "tags": [],
@@ -198,7 +198,7 @@
             "description": "Security isn't very fun for development teams to think about. It's complex and something that isn't brought to mind when considering requirements. Too often, it neglected by teams and left to the end for penetration testers to consider. But, it doesn't have to be. Security can be considered early in the development cycle. How can we encourage this behaviour? How can you get development teams interested?\n\nSecurity is an important skill to possess while delivering quality software. The cost of not having security skills within teams is now more obvious than ever. Security should be in the forefront of development teams minds. Even with these risks, data leaks and denial of service attacks are in the headlines often. How do we stop our companies being another statistic?\n\nLearning should not be compulsory. Especially if you want something to become part of the culture. Beginning with a simple workshop to expanding to a security guild, people were eager to be involved. This lead to further workshops which included the basics of threat modelling using STRIDE to the complexity of automated checks. Security at Sky became not only fun but cool. Security was no longer a rarely thought about requirement but a fun, oft thought about need.",
             "room": "Hopper",
             "date": "May 16th",
-            "time": "11:00 AM",
+            "time": "11:30 AM",
             "tags": [],
             "cospeakers": []
         },
@@ -241,7 +241,7 @@
             "title": "Nihilism and Technology",
             "format": "Talk",
             "description": "Rather than engage in endless debates about whether technologies are making us better or worse, Nolen Gertz investigates what we think \"better\" and \"worse\" mean, and what role this thinking has played in the creation of our technological world. Using Nietzsche's philosophy of nihilism, Gertz explores the ways in which our values mediate how we design and use technologies. Examining our technological practices—practices ranging from _Netflix and Chill_ to _Fitbit and Move_ to _Twitter and Rage_—reveals how nihilism and technologies have become intertwined, creating a world of techno-hypnosis, data-driven activity, pleasure economics, herd networking, and orgies of clicking.",
-            "room": "Lovelace",
+            "room": "Keynote",
             "date": "May 17th",
             "time": "05:15 PM",
             "tags": [],
@@ -303,7 +303,7 @@
             "description": "his is a live coding session based on a classic 1982 paper by Peter Henderson. The paper shows the decomposition and reconstruction of Escher's woodcutting \"Square Limit\", a beautiful recursive tessellation of interleaving fish, using functional programming. We will define a set of functions that operate on pictures - transforming them and composing them into more complex pictures. With these functions implemented, we will follow in Henderson's footsteps to create a replica of Escher's Square Limit as an SVG. We will use Elm as the implementation language.",
             "room": "Lovelace",
             "date": "May 16th",
-            "time": "11:00 AM",
+            "time": "11:30 AM",
             "tags": [],
             "cospeakers": []
         },
@@ -333,7 +333,7 @@
             "description": "",
             "room": "Liskov",
             "date": "May 16th",
-            "time": "11:00 AM",
+            "time": "11:30 AM",
             "tags": [],
             "cospeakers": []
         },
@@ -363,7 +363,7 @@
             "description": "What if your engineering teams didn't have to be static? What if you could form them, disband them or adapt their composition every 3 months? And people could pick what they work on?\n\nIs it a recipe for disaster? Or would it give you the flexibility to work on what has the highest business impact, increase engagement and develop your future leaders? What are the tradeoffs? How do you balance short term impact with long term ownership and platform stability?\n\nIn this talk, I'll tell you how I initially led a team of ~20 people from a static structure to something a lot more dynamic where reteaming happens quarterly, and how we are now scaling those practices to 60 people. I'll share with you:\n- How we plan our quarters and let people pick what they work on\n- How we create constraints to make sure the important work gets done while developing knowledge sharing\n- How we use OKRs to create alignment and track progress\n- How we keep in sync and engage with our stakeholders\n- How lead time is decreasing as a result\n\nI'll also share details on our journey: our mistakes, our learnings, what we still struggle with 1 year later and why we think this is strongly aligned with Agile core values!",
             "room": "Kare",
             "date": "May 17th",
-            "time": "11:00 AM",
+            "time": "11:30 AM",
             "tags": [],
             "cospeakers": []
         },
@@ -378,7 +378,7 @@
             "description": "Do you want to produce front-end JS code that does not generate any errors at runtime?\n\nRefactor your Single Page Applications without introducing any bugs?\nA tooling as simple as it is efficient?\n\nDuring this workshop, discover elm, a functional language that highlights the developer experience!\n\nPrerequisites: install elm, elm-live and elm-format on your laptop.",
             "room": "Kare",
             "date": "May 17th",
-            "time": "03:30 PM",
+            "time": "03:00 PM",
             "tags": [],
             "cospeakers": []
         },
@@ -436,7 +436,7 @@
             "title": "The one with the compiler always wins",
             "format": "Talk",
             "description": "The programmer holds the power in the team. The UX designer, the product owner, the manager, the tester, the agile coach and others can try their best to influence outcomes but it doesn’t matter if the programmer is not on board. Only the programmer decides which if-statements get written and how long it will take. Without the programmer, there is no software. Without the software, there is no company. But as the saying goes, with great power comes great responsibility. One of those responsibilities is to acknowledge this power and use it for good. Good for the human beings working with you, good for the company, good for your own health and good for society.",
-            "room": "Lovelace",
+            "room": "Keynote",
             "date": "May 16th",
             "time": "09:15 AM",
             "tags": [],
@@ -498,7 +498,7 @@
             "description": "We know psychological safety is necessary for any working team to work But how achievable is it? I posit that due to our current blind spots our visions on that are naïve. Let's dig together on why! tis time for some Sociological Theory, let's Vulgarise Bourdieu! Buckle up for a keynote on\n\nSymbolic Violence.\nSocial/Corporeal Hexis.\nCultural Capital.\nInteractions of those 3 and \"Agile\" Methods.",
             "room": "Kare",
             "date": "May 16th",
-            "time": "11:00 AM",
+            "time": "11:30 AM",
             "tags": [],
             "cospeakers": []
         },
@@ -693,7 +693,7 @@
             "description": "There are several reasons you might want to contribute to open source software. For me, it was that I wanted to learn in a more useful way than doing programming challenges. So I looked into how I could contribute to open source projects that I use myself.\nAfter contributing for almost two years, I notice that I have learned a lot from my contributions (which has been useful at work), as well as have made friends and have become part of a community. \n\nIn this talk I will share my experience with contributing to Cucumber, including an early mistake (merging something that wasn't ready yet) and fixing it with the support of core contributors, and still feeling welcome!\nYou'll learn how how to find your project and contributions to start with, how to connect with the community to make sure your contributions are useful and the many types of contributions you can make. \n\nContributing to open source is a way of paying back to the community. In addition, it is a way for you to learn, collaborate and become part of a community. Getting (constructive) feedback on a pull request and collaborating to make things even better is a great feeling!",
             "room": "Kare",
             "date": "May 17th",
-            "time": "10:45 AM",
+            "time": "10:30 AM",
             "tags": [],
             "cospeakers": []
         },
@@ -708,7 +708,7 @@
             "description": "Great teams build great products. But what makes a team ‘great’? We have a pretty good understanding of how to improve our code from a technical perspective, but how can we increase the effectiveness of the team creating that code and designs? In the end, software is a technical activity, created by human beings, so it’s crucial to understand the underlying social dynamics that affect our code and designs.\n\nWe should especially try to understand the social heuristics that we are using continuously to make sense of the world. In this talk, Evelyn van Kelle will discuss why we need a shared sense of reality and how this relates to team structure and the quality of your products. Second, she will explore two famous perspectives on sensemaking, and relate them to three social heuristics that are heavily affecting our products and decisions. \n\n- What you see is all there is (availability heuristic)\n- Beware of the experts (related to overconfidence)\n- The curse of first impressions (related to anchoring)\n\nThese heuristics have everything to do with tackling complexity at the heart of software development. In fact, they offer us ways to deal with the complexity we’re facing on a daily basis. If we know the domain, or ‘world’ that we’re operating in, and we are aware of heuristics that may affect our work, we can safely celebrate heuristics and make the best decisions of our lives. ",
             "room": "Hopper",
             "date": "May 17th",
-            "time": "11:00 AM",
+            "time": "11:30 AM",
             "tags": [],
             "cospeakers": []
         },
@@ -723,7 +723,7 @@
             "description": "Distributed systems are all about time. Traditional modelling styles, focused on things and structures, are not the primary way anymore to build modern systems that handle complexity well. Entity-centric designs tend to have an uneasy relation with events happening over time. The actual business processes, the heart of how organisations operate, end up hidden in the many calls between services.\n\nTemporal Modelling is the cure: build models and systems that make events and processes the first class building blocks of a domain model. In this talk, we’re going to look at how reasoning with time helps us better understand how to build our software.",
             "room": "Liskov",
             "date": "May 17th",
-            "time": "11:00 AM",
+            "time": "11:30 AM",
             "tags": [],
             "cospeakers": []
         },
@@ -738,7 +738,7 @@
             "description": "Coffee or tea? One sugar or two? Should we use Event Sourcing or does CRUD seem good to you?\n\nOur brains are designed for making quick decisions, but quick does not always mean good… We make thousands of decisions each day but never stop to wonder: how did we come to this conclusion? Were there more choices than we realised? Did we focus on the right thing? Did we pick the right option? Are there other methods we can use to reach a better outcome?\nIf we improved our decision making by just 1%, overall we would achieve a massive improvement in every area of our lives, from happiness with our family to success at work. Everybody should learn decision making heuristics, yet nobody does. Let’s fix that.\n\nWe’re going to take a close look at a variety of key decision-making heuristics including \"problem restatement\", \"devil’s advocate\", and \"the wizard\". Through provocative exercises, we’re going to uncover the heuristics we currently use and we’re going to teach ourselves when to apply certain decision making heuristics to improve our chances of getting the results we want.",
             "room": "Goldberg",
             "date": "May 16th",
-            "time": "10:30 AM",
+            "time": "10:15 AM",
             "tags": [],
             "cospeakers": []
         },
@@ -781,9 +781,9 @@
             "title": "Crafting Compassionate Code",
             "format": "Talk",
             "description": "As developers, we might think we don't have to care about humans because we work on machines. However, nothing could be further from the truth. The only reason for us to build technology is to serve humans.\n\nTherefore, practicing compassion is essential for effective software development. Though many people think of compassion as something soft or ambiguous, you'll learn how compassion provides a practical framework for making rational decisions about our code with the goal of reducing suffering for ourselves, our collaborators, and our users.\n\nFrom understanding customer pain points all the way down to the level of choosing variable names, applying practical compassion can help us craft better code, improve people's lives, and ultimately find more satisfaction in our work!",
-            "room": "Lovelace",
+            "room": "Keynote",
             "date": "May 17th",
-            "time": "09:30 AM",
+            "time": "09:15 AM",
             "tags": [],
             "cospeakers": []
         },
